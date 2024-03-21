@@ -1,0 +1,5 @@
+../src/fpu.v
+../src/fpu_adder.v
+../src/fpu_multiplier.v
+../src/rounding.v
+
